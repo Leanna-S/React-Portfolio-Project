@@ -89,7 +89,7 @@ function Skills() {
           subTitle: "Grade 11",
           points: [
             <>
-              <span className="colored">Honor roll with distinction</span> (2018-2023)
+              <span className="colored">Honor roll with distinction</span> (2020-2023)
             </>,
           ],
         },

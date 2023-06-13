@@ -21,7 +21,7 @@ function About() {
               behind it all. While her skills are fairly new, Leanna wants to learn more about development.
             </p>
             <p className="inactive">
-              Leanna has a huge passion for reading, writing, programming, and drawing. She spends most of her type trying to learn new
+              Leanna has a huge passion for reading, writing, programming, and drawing. She spends most of her time trying to learn new
               things. She greatly enjoys math and english, loving the creativity and problem solving aspects of both. She also finds that
               programming is both logical and creative, making it one of her favourite things to do.
             </p>
