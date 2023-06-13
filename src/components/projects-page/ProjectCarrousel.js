@@ -15,7 +15,7 @@ function Carrousel() {
       image: "/Screenshot (3).png",
       header: "Portfolio Project",
       content: [`Created using React.js.`, `The code for this very website!`],
-      url: "https://github.com/Leanna-S/SD105-Portfolio-Project",
+      url: "https://github.com/Leanna-S/React-Portfolio-Project",
       id: 1,
     },
     {
